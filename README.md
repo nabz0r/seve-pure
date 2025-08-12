@@ -159,7 +159,7 @@ Filtre cylindrique universel, compatible avec 95% des descentes de gouttières (
 ## 9. Risques et Mitigation
 
 | Risque | Probabilité | Impact | Mitigation |
-|--------|------------|--------|------------|
+|--------|------------|--------|-----------|
 | Efficacité produit insuffisante | Moyen | Élevé | Tests extensifs, itérations |
 | Copie par concurrent | Élevé | Moyen | Brevet + avance marché |
 | Problèmes supply chain | Faible | Moyen | 80% sourcing local |
@@ -172,7 +172,7 @@ Nous recherchons :
 - **Conseiller scientifique** en traitement de l'eau
 - **Bêta-testeurs** pour validation terrain
 
-**Contact :** https://www.linkedin.com/company/101146157
+**Contact :** [Email] | [LinkedIn]
 
 ---
 
