@@ -1,4 +1,5 @@
 Dossier Technique : Sève Pure, le pré-filtre de gouttière
+
 1. Concept et Preuve Scientifique du Pré-Filtre Bio
 Sève Pure est un système de pré-filtration de l'eau de pluie qui exploite les principes de la bio-ingénierie et de la filtration multicouche. Il combine des matériaux naturels aux propriétés complémentaires pour clarifier, décontaminer et désodoriser l'eau de pluie à la source. L'efficacité du système repose sur la synergie de ses couches, en suivant un flux descendant qui mime la purification naturelle du sol.
 
@@ -35,6 +36,8 @@ La conception de Sève Pure est basée sur un module simple, universel et réuti
 2.1. Schéma des Composants
 Le système se compose de deux parties distinctes : un boîtier externe durable et une cartouche de filtration remplaçable.
 
+Extrait de code
+
 graph TD
     A[Boîtier Externe] --> B(Cartouche Bio)
     B --> C(Eau de Pluie Entrée)
@@ -44,7 +47,6 @@ graph TD
     C --> B
     D <-- B
     A[Boîtier Externe] -- "Conduit l'eau" --> B
-
 2.2. Visualisation du Flux et des Couches
 Le flux de l'eau est crucial. Voici l'ordre des couches de filtration dans la cartouche, de l'entrée de l'eau (le haut) à la sortie (le bas).
 
@@ -58,6 +60,8 @@ Couche de Gravier (sortie) : Assure le drainage et soutient les autres couches.
 
 2.3. Options d'Intégration et Compatibilité
 Le design est conçu pour une intégration universelle. Voici deux options d'installation :
+
+Extrait de code
 
 graph TD
     A[Gouttière] --> B[Collecteur]
@@ -77,7 +81,6 @@ graph TD
     direction LR
     B --> "Monté sur le côté"
     end
-
 Options de montage :
 
 Montage Simple (dans la gouttière) : La cartouche Sève Pure est insérée directement dans la descente de la gouttière à l'aide d'un adaptateur universel.
@@ -106,3 +109,4 @@ Des tests de porosité et d'efficacité de l'adsorption devront être menés sur
 
 4. Conclusion & Prochaines Étapes
 Ce dossier technique confirme la viabilité et l'ingéniosité du concept Sève Pure. Avec une chaîne d'approvisionnement maîtrisée et un produit au design soigné, nous avons tous les atouts pour convaincre des investisseurs et conquérir un marché de masse. L'étape suivante est la fabrication d'un prototype fonctionnel pour valider nos spécifications et démontrer la puissance de la filtration bio de manière tangible.
+
