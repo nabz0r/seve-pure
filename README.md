@@ -172,7 +172,7 @@ Nous recherchons :
 - **Conseiller scientifique** en traitement de l'eau
 - **Bêta-testeurs** pour validation terrain
 
-**Contact :** [Email] | [LinkedIn]
+**Contact :** https://www.linkedin.com/company/101146157
 
 ---
 
